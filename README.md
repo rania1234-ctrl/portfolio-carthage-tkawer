@@ -1,45 +1,61 @@
-#  Carthage Tkawer – Projet QR Code
+#  Carthage Tkawer – Plateforme Digitale avec QR Code
 
 ##  Présentation du projet
 Carthage Tkawer est un projet réalisé dans un cadre universitaire.
-L’objectif est de proposer une solution simple basée sur des QR codes
-permettant d’accéder rapidement à des informations ou à un formulaire
-liés à l’activité / l’événement.
+Il consiste à mettre en place une plateforme digitale accessible
+via des QR codes, permettant aux utilisateurs d’accéder rapidement
+à un site web et à un formulaire en ligne.
 
-Le projet met l’accent sur l’accessibilité, la simplicité d’utilisation
-et la digitalisation d’un parcours utilisateur.
+Le projet vise à simplifier l’accès aux informations et à digitaliser
+le parcours utilisateur.
 
 ---
 
 ##  Objectifs du projet
-- Mettre en place un système d’accès rapide via QR code  
-- Faciliter l’accès à un formulaire en ligne  
-- Améliorer l’expérience utilisateur (scan → accès direct)  
-- Centraliser les informations de manière digitale  
+- Faciliter l’accès à une plateforme via QR code  
+- Mettre en relation supports physiques et services numériques  
+- Digitaliser l’accès à un formulaire  
+- Améliorer l’expérience utilisateur  
+- Optimiser la communication digitale  
 
 ---
 
 ##  Fonctionnalités principales
-- QR code principal permettant d’accéder à la plateforme / page Tkawer  
-- QR code permettant d’accéder directement au formulaire  
-- Supports visuels (affiches / images) intégrés au projet  
+- Scan d’un QR code pour accéder au site  
+- Accès direct au formulaire en ligne  
+- Interface web claire et intuitive  
+- Navigation simple  
+- Contenus informatifs  
 
 ---
 
-##  Ressources du projet
+##  Interface du site
 
-### QR Code – Accès Tkawer
-![QR Tkawer](qr/codeqrtkawer.png)
+### Aperçu des pages
+![Page 1](images/SITE%20SLIDE1.jpg)
+![Page 2](images/SITE%20SLIDE2.jpg)
+![Page 3](images/SITE%20SLIDE3.jpg)
+![Page 4](images/SITE%20SLIDE4.jpg)
 
-### QR Code – Formulaire
-![QR Formulaire](qr/qrcodeFormulaire.png)
+---
+
+## QR Codes du projet
+
+### Accès plateforme
+![QR Tkawer](qr/code%20qr%20tkawer.png)
+
+### Accès formulaire
+![QR Formulaire](qr/qr%20code%20formulaire.jpg)
 
 ---
 
 ##  Technologies / Outils
-- Génération de QR codes  
-- Supports visuels (images)  
-- (Ajouter ici si tu as utilisé un site ou outil spécifique)
+- HTML  
+- CSS  
+- JavaScript  
+- Générateur de QR Code  
+- Outils de design graphique  
 
 ---
+
 
