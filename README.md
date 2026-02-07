@@ -29,10 +29,10 @@ et la digitalisation d’un parcours utilisateur.
 ##  Ressources du projet
 
 ### QR Code – Accès Tkawer
-![QR Tkawer](qr/qr_code_tkawer.png)
+![QR Tkawer](qr/QR_Tkawer.png)
 
 ### QR Code – Formulaire
-![QR Formulaire](qr/qr_code_formulaire.png)
+![QR Formulaire](qr/QR_Formulaire.png)
 
 ---
 
